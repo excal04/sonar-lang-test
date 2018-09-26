@@ -1,2 +1,5 @@
 console.log("hello world");
-// console.log("hello world");
+
+if (true) {
+  new Error("buggy code");
+}
